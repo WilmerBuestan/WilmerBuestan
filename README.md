@@ -7,6 +7,7 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=WilmerBuestan&style=for-the-badge&color=39ff6a&label=CONTACTOS+EN+RADAR" alt="Visitas al perfil"/>
+<a href="mailto:thegranwil@gmail.com"><img src="https://img.shields.io/badge/ESTABLECER_ENLACE-0a0f09?style=for-the-badge&logo=gmail&logoColor=39ff6a" alt="Correo"/></a>
 
 </div>
 
@@ -23,10 +24,31 @@ operador:
   rango:       Capitán · Arma de Comunicaciones · Ejército del Ecuador
   especialidad: Guerra Electrónica
   formación:
-    - Máster en Ciberseguridad — UIDE
+    - Magíster en Ciberseguridad — UIDE (2021)
     - Ingeniería de Software (8vo semestre) — Universidad de las Fuerzas Armadas ESPE
+    - Licenciado en Ciencias Militares — Universidad de las Fuerzas Armadas ESPE (2016)
+  contacto:     thegranwil@gmail.com
   doctrina:     "Seguridad desde el diseño, no como parche."
 ```
+
+---
+
+## `$ cat /var/log/certificaciones.log`
+
+| Año | Credencial | Institución | Tipo |
+|:---:|---|---|:---:|
+| 2021 | **Magíster en Ciberseguridad** · Reg. SENESCYT `1041-2021-2323270` | Universidad Internacional del Ecuador (UIDE) | 🎓 Posgrado |
+| en curso | **Ingeniería de Software** (8vo semestre) | Universidad de las Fuerzas Armadas ESPE | 🎓 Grado |
+| 2016 | **Licenciado en Ciencias Militares** · Reg. SENESCYT `1079-2016-1757728` | Universidad de las Fuerzas Armadas ESPE | 🎓 Grado |
+| 2020 | Operación de aeronaves no tripuladas multirrotor con cámara térmica y RGB | Todo a Control Remoto | 🛩️ UAS |
+| 2019 | Lineamientos de Políticas y Estrategias de Ciberdefensa y Ciberseguridad · 360 h | Centro Internacional de Investigación Científica en Telecomunicaciones y TIC | 🛡️ Cyber |
+| 2019 | Infraestructuras Críticas, Ciberdefensa y Ciberseguridad · 360 h | Centro Internacional de Investigación Científica en Telecomunicaciones y TIC | 🛡️ Cyber |
+| 2019 | Lineamientos de uso de la Información, Data y Big Data · 360 h | Centro Internacional de Investigación Científica en Telecomunicaciones y TIC | 📊 Data |
+| 2019 | Derecho Internacional Humanitario: uso de la fuerza | CONADIHE | ⚖️ DIH |
+| 2018 | **Curso de Analista de Guerra Electrónica** | Ejército del Ecuador | 📡 EW |
+| 2016 | Suficiencia en idioma inglés | Universidad de las Fuerzas Armadas ESPE | 🌐 Idiomas |
+
+<sub>Títulos verificables en la [consulta oficial de títulos](https://titulos-edusuperior.minedec.gob.ec/consulta-titulos-web/faces/vista/consulta/consulta.xhtml) · **Calificaciones militares:** Paracaidismo · Operaciones en Selva · Patrullas</sub>
 
 ---
 

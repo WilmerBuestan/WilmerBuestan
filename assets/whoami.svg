@@ -21,7 +21,7 @@
 
     <text x="24" y="124" class="l" style="animation-delay:1.0s"><tspan class="p">capt@wilmer-latos</tspan><tspan class="d">:~$ </tspan><tspan class="c">cat ~/.perfil.conf</tspan></text>
     <text x="24" y="148" class="l" style="animation-delay:1.4s"><tspan class="k">rol</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Analista de Guerra Electrónica</tspan></text>
-    <text x="24" y="172" class="l" style="animation-delay:1.6s"><tspan class="k">formación</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Máster en Ciberseguridad · UIDE</tspan></text>
+    <text x="24" y="172" class="l" style="animation-delay:1.6s"><tspan class="k">formación</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Magíster en Ciberseguridad · UIDE</tspan></text>
     <text x="24" y="196" class="l" style="animation-delay:1.8s"><tspan class="k">estudios</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Ingeniería de Software · 8vo semestre · ESPE</tspan></text>
     <text x="24" y="220" class="l" style="animation-delay:2.0s"><tspan class="k">enfoque</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">AppSec · DevSecOps · software para defensa</tspan></text>
     <text x="24" y="244" class="l" style="animation-delay:2.2s"><tspan class="k">base</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Quito, Ecuador</tspan></text>
