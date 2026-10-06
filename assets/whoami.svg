@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="Terminal: whoami de Wilmer Buestan">
+  <defs>
+    <style>
+      .m{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,monospace;font-size:15px}
+      .p{fill:#39ff6a}.c{fill:#e8ffe3}.k{fill:#f2b84b}.v{fill:#b9e6b0}.d{fill:#6f9a66}
+      .l{animation:in .35s ease-out both}
+      @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+      .cur{animation:bl 1s steps(1) infinite}
+      @keyframes bl{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="378" rx="10" fill="#0a0f09" stroke="#2b4426" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="34" rx="10" fill="#12200f"/>
+  <rect x="1" y="24" width="898" height="11" fill="#12200f"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5d5d"/><circle cx="44" cy="18" r="6" fill="#f2b84b"/><circle cx="64" cy="18" r="6" fill="#39ff6a"/>
+  <text x="450" y="23" text-anchor="middle" class="m d" font-size="13">capt@wilmer-latos: ~ — zsh</text>
+
+  <g class="m">
+    <text x="24" y="66"  class="l" style="animation-delay:.2s"><tspan class="p">capt@wilmer-latos</tspan><tspan class="d">:~$ </tspan><tspan class="c">whoami</tspan></text>
+    <text x="24" y="90"  class="l v" style="animation-delay:.6s">wilmer.buestan — Capitán de Comunicaciones · Ejército del Ecuador</text>
+
+    <text x="24" y="124" class="l" style="animation-delay:1.0s"><tspan class="p">capt@wilmer-latos</tspan><tspan class="d">:~$ </tspan><tspan class="c">cat ~/.perfil.conf</tspan></text>
+    <text x="24" y="148" class="l" style="animation-delay:1.4s"><tspan class="k">rol</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Analista de Guerra Electrónica</tspan></text>
+    <text x="24" y="172" class="l" style="animation-delay:1.6s"><tspan class="k">formación</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Máster en Ciberseguridad · UIDE</tspan></text>
+    <text x="24" y="196" class="l" style="animation-delay:1.8s"><tspan class="k">estudios</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Ingeniería de Software · 8vo semestre · ESPE</tspan></text>
+    <text x="24" y="220" class="l" style="animation-delay:2.0s"><tspan class="k">enfoque</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">AppSec · DevSecOps · software para defensa</tspan></text>
+    <text x="24" y="244" class="l" style="animation-delay:2.2s"><tspan class="k">base</tspan><tspan class="d" x="140">=</tspan><tspan class="v" x="166">Quito, Ecuador</tspan></text>
+
+    <text x="24" y="278" class="l" style="animation-delay:2.6s"><tspan class="p">capt@wilmer-latos</tspan><tspan class="d">:~$ </tspan><tspan class="c">uptime</tspan></text>
+    <text x="24" y="302" class="l v" style="animation-delay:3.0s">servicio activo + código en paralelo · café: ∞ · rendirse: 0</text>
+
+    <text x="24" y="336" class="l" style="animation-delay:3.4s"><tspan class="p">capt@wilmer-latos</tspan><tspan class="d">:~$ </tspan><tspan class="k">echo $MISION</tspan></text>
+    <text x="24" y="360" class="l c" style="animation-delay:3.8s">"Construir software seguro para quienes protegen." <tspan class="p cur">_</tspan></text>
+  </g>
+</svg>
