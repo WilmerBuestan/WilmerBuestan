@@ -35,11 +35,24 @@ operador:
 
 ## `$ cat /var/log/certificaciones.log`
 
+<div align="center">
+  <a href="https://www.credly.com/badges/3373d920-8635-4841-884a-48f06072d639" title="Verificar insignia Ethical Hacker en Credly">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" width="130" alt="Cisco Ethical Hacker"/>
+  </a>
+  <br/>
+  <sub><b>CISCO ETHICAL HACKER</b> · credencial verificada en Credly ↗</sub>
+</div>
+
+
 | Año | Credencial | Institución | Tipo |
 |:---:|---|---|:---:|
 | 2021 | **Magíster en Ciberseguridad** · Reg. SENESCYT `1041-2021-2323270` | Universidad Internacional del Ecuador (UIDE) | 🎓 Posgrado |
 | en curso | **Ingeniería de Software** (8vo semestre) | Universidad de las Fuerzas Armadas ESPE | 🎓 Grado |
 | 2016 | **Licenciado en Ciencias Militares** · Reg. SENESCYT `1079-2016-1757728` | Universidad de las Fuerzas Armadas ESPE | 🎓 Grado |
+| 2026 | **Ethical Hacker** — certificado + [insignia verificada](https://www.credly.com/badges/3373d920-8635-4841-884a-48f06072d639) | Cisco Networking Academy | 🛡️ Cyber |
+| 2026 | Threat Analysis · Cybersecurity Administration (módulos) | Cisco Networking Academy | 🛡️ Cyber |
+| 2026 | Conceptos básicos de redes y de acceso a la red (módulos) | Cisco Networking Academy | 🌐 Redes |
+| 2024 | **Networking Essentials** | Cisco Networking Academy | 🌐 Redes |
 | 2020 | Operación de aeronaves no tripuladas multirrotor con cámara térmica y RGB | Todo a Control Remoto | 🛩️ UAS |
 | 2019 | Lineamientos de Políticas y Estrategias de Ciberdefensa y Ciberseguridad · 360 h | Centro Internacional de Investigación Científica en Telecomunicaciones y TIC | 🛡️ Cyber |
 | 2019 | Infraestructuras Críticas, Ciberdefensa y Ciberseguridad · 360 h | Centro Internacional de Investigación Científica en Telecomunicaciones y TIC | 🛡️ Cyber |
@@ -49,6 +62,30 @@ operador:
 | 2016 | Suficiencia en idioma inglés | Universidad de las Fuerzas Armadas ESPE | 🌐 Idiomas |
 
 <sub>Títulos verificables en la [consulta oficial de títulos](https://titulos-edusuperior.minedec.gob.ec/consulta-titulos-web/faces/vista/consulta/consulta.xhtml) · **Calificaciones militares:** Paracaidismo · Operaciones en Selva · Patrullas</sub>
+
+<details>
+<summary><b>▸ Desglose del curso Ethical Hacker (Cisco)</b></summary>
+
+`Planificación y alcance de pentest` · `Reconocimiento y análisis de vulnerabilidades` · `Ingeniería social` · `Explotación de redes cableadas e inalámbricas` · `Vulnerabilidades en aplicaciones` · `Seguridad en la nube, movilidad e IoT` · `Post-explotación` · `Herramientas y análisis de código` · `Informes y comunicación`
+
+</details>
+
+---
+
+## `$ cat expediente_academico.log`
+
+```text
+PROGRAMA ....... Ingeniería de Software · ESPE (presencial)
+NIVEL .......... 8vo semestre
+ASIGNATURAS .... 35 aprobadas · 4 224 horas
+DESTACADAS ..... Computación Paralela ......... 20.00/20
+                 Liderazgo .................... 19.19/20
+                 Cálculo Diferencial e Integral 19.16/20
+                 Desarrollo Web Avanzado ...... 18.06/20
+                 Desarrollo de Apps Móviles ... 18.05/20
+                 Sistemas de Bases de Datos ... 17.75/20
+                 Sistemas Operativos .......... 17.18/20
+```
 
 ---
 
